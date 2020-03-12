@@ -13,7 +13,7 @@ W momencie, kiedy **ukończycie** pracę nad problemem i chcecie zrobić merge r
 
         hub pull-request -i <GitHubowy numer Issue> -b master
 
-gdzie ten GitHubowy numer Issue, to numer z kratką znajdujący się za nazwą issue np [#4](#4)
+gdzie ten GitHubowy numer Issue, to numer z kratką znajdujący się za nazwą issue np #1
 
 W ten sposób Issue zostanie zamieniony na Pull Request, z całą historią dyskusji itp.
 
