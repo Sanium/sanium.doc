@@ -1,5 +1,5 @@
 ### Kolorystyka
-
+![colors.png](https://raw.githubusercontent.com/Sanium/sanium.doc/master/colors.png)
 | Primary: light blue ![#03A9F4](https://placehold.it/15/03A9F4/000000?text=+) `#03A9F4` | Accent: amber ![#FFC107](https://placehold.it/15/FFC107/000000?text=+) `#FFC107` |
 | - | - |
 dark primary color | ![#0288D1](https://placehold.it/15/0288D1/000000?text=+) `#0288D1`
